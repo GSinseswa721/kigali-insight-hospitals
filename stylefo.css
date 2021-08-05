@@ -1,0 +1,12 @@
+
+.{
+	font-family:'museo';
+}
+.container{
+margin:50px 80px;
+display:flex;
+}
+.table{
+
+margin: 0 50px;
+}
